@@ -1,0 +1,6 @@
+# Emacs autosave files
+*~
+
+_site
+.sass-cache
+.jekyll-metadata

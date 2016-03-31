@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Meeting"
-date:   2016-03-30 14:25:13 -0500
+date:   2016-03-31 16:33:00 -0500
 categories: notes meeting presentation
 ---
 

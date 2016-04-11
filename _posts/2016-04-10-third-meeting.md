@@ -9,9 +9,9 @@ Our third meeting took place on Thursday, April 7th, 2016.
 
 ## Integration
 
-In this meeting, we discussed how we would integrate the three main parts of our project (the *web server*, the *Raspberry Pi and camera*, and *face detection*) into one codebase.	Here's a diagram describing how the parts interface:
+In this meeting, we discussed how we would integrate the three main parts of our project (the **web server**, the **Raspberry Pi and camera**, and **face detection**) into one codebase.	Here's a diagram describing how the parts interface:
 
-![Our face scanning machine!]({{ site.url }}/assets/setup.png)
+![Our face scanning machine!](https://raw.githubusercontent.com/uiuc-facescanner/uiuc-facescanner.github.io/master/assets/setup.png)
 
 Here's what each .py file will boil down to:
 
